@@ -1,1 +1,2 @@
-console.log(new change);
+console.log(newer change);
+Creating a merge conflict on purpose. 
