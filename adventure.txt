@@ -1,1 +1,3 @@
 console.log("this will conflict");
+console.log(newer change);
+Creating a merge conflict on purpose.
